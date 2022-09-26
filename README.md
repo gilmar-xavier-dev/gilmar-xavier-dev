@@ -1,4 +1,4 @@
-# Olá, Eu sou Gilmar Xavier :D
+# Olá, Eu sou Gilmar Xavier 😄
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gilmar-xavier-dev)](https://github.com/gilmar-xavier-dev)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gilmar-xavier-dev/)](https://www.linkedin.com/in/gilmar-xavier-dev/)
