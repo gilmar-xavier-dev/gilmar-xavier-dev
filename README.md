@@ -7,7 +7,19 @@
 
 Desenvolvedor: Linguagem C, Golang, SQL, NOSql, JS, API´s, Cobol.
 
-- [Website](http://gilmar.dev.br/) 
+- [gilmar.dev.br](http://gilmar.dev.br/)
+
+
+- [Nerdin](https://www.nerdin.com.br/)
+
+- [Hipsters](https://hipsters.jobs/)
+
+- [Github Vagas](https://github.com/topics/vagas-para-desenvolvedores)
+
+- [Programathor](https://programathor.com.br/)
+
+- [Apinfo](https://www.apinfo.com/apinfo/index.cfm)
+
 
 <!--
 **gilmar-xavier-dev/gilmar-xavier-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
